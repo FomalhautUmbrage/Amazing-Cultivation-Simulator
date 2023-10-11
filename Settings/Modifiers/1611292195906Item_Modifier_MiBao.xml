@@ -1,0 +1,84 @@
+<ModifierDefs><List>
+	
+	<Modifier Name="太岁之力" Type="Normal">
+		<DisplayName>太岁之力</DisplayName>
+		<Desc>太岁在锻造的过程中融入了辟邪骨血，虽然使得太岁拥有一剑破万法与撕裂空间的神力，但也因此变得非人可御。若强行使用，将大幅度减少寿命并增加道行与天谴值。并且缙云曾执太岁斩杀了数不尽的魔，其中魔物怨气缭绕，将大幅度影响使用者的心境。</Desc>
+		<MaxStack>1</MaxStack>
+		<Duration>-1</Duration>
+		<Display>1</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" BAddP="100"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="3000"/>
+			<li Name="GodPenaltyAddV" AddV="9999999"/>
+			<li Name="MaxAge" AddV="-100"/>
+			<li Name="AbilityLvAddV" AddV="1000"/>
+			<li Name="NightmareHappenPercent" AddP="0.2"/>
+			<li Name="SpeedOfMindStateCoefficient" AddP="-5"/>
+			<li Name="AgeCostSpeed" AddP="2"/>
+			<li Name="BaseEmotionAddV" AddV="-50"/>
+			<li Name="MindStateBaseValue" AddV="-50"/>
+		</Properties>
+
+		<Skills>
+			<li Name="Fabao" LevelOver="100"/>
+		</Skills>
+	</Modifier> 
+
+	<Modifier Name="太上多情" Type="Normal">
+		<DisplayName>太上多情</DisplayName>
+		<Desc>多情天尊张煜承曾将自身七情尽数炼入此剑，不仅威力绝伦，执剑者也会从当中领悟出剑道真意，突破御剑极限10级。然多情伤人伤己，会对执剑者的心情与心境造成影响。</Desc>
+		<MaxStack>1</MaxStack>
+		<Duration>-1</Duration>
+		<Display>1</Display>
+		<Properties>
+
+			<li Name="NpcFight_FabaoPowerAddP" AddP="500"/>
+			
+			
+			
+			<li Name="NightmareHappenPercent" AddP="0.2"/>
+			<li Name="SpeedOfMindStateCoefficient" AddP="-5"/>
+			
+			<li Name="BaseEmotionAddV" AddV="-30"/>
+			<li Name="MindStateBaseValue" AddV="-30"/>
+		</Properties>
+
+		<Skills>
+			<li Name="Fabao" LevelOver="10"/>
+		</Skills>
+	</Modifier>
+
+	<Modifier Name="华杰之主" Type="Normal">
+		<DisplayName>华杰之主</DisplayName>
+		<Desc>拥有㱾鋆御哨之人将被华杰之野的黎民奉为天皇，受万千百姓爱戴，突破护体极限20级。</Desc>
+		<MaxStack>1</MaxStack>
+		<Duration>-1</Duration>
+		<Display>1</Display>
+
+		<Skills>
+			<li Name="Barrier" Level="40"/>
+			<li Name="Barrier" LevelOver="20"/>
+		</Skills>
+	</Modifier>
+
+	<Modifier Name="万念" Type="Normal">
+		<DisplayName>万念</DisplayName>
+		<Desc>万念剑中蕴含着多情天尊对于故人的万千念想，将大幅度影响执剑者心境，且噩梦连连。</Desc>
+		<MaxStack>1</MaxStack>
+		<Duration>-1</Duration>
+		<Display>1</Display>
+
+		<Properties>
+			
+			<li Name="NightmareHappenPercent" AddP="0.5"/>
+			
+			<li Name="BaseEmotionAddV" AddV="-50"/>
+			<li Name="MindStateBaseValue" AddV="-50"/>
+
+		</Properties>
+	</Modifier> 
+
+	
+	
+	
+</List></ModifierDefs>

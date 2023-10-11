@@ -1,0 +1,142 @@
+<ModifierDefs><List>
+	<Modifier Name="Modifier_Guard_cangwu_wang" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcLingMaxValue" AddV="40000"/>
+			
+			<li Name="NpcFight_FabaoPowerAddP" AddP="6"/>
+		</Properties>
+		<Skills>
+			<li Name="Fabao" LevelOver="1"/>
+		</Skills>
+	</Modifier> 
+	
+	<Modifier Name="Modifier_Guard_cangwu_feng" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcLingMaxValue" AddV="60000"/>
+			
+			<li Name="NpcFight_SpellPowerAddP" AddP="6"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
+		</Properties>
+        <Skills>
+			<li Name="FightSkill" LevelOver="1"/>
+		</Skills>
+	</Modifier> 
+
+    <Modifier Name="Modifier_Guard_cangwu_dapeng" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="WorldMapFlySpeedAddP" AddP="100"/>
+			
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="5"/>
+		</Properties>
+	</Modifier> 
+
+    <Modifier Name="Modifier_Guard__cangwu_xinhai" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100"/>
+			<li Name="NpcLingMaxValue" AddV="100000"/>
+			
+			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="1"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="1"/>
+			
+			<li Name="NpcFight_SpellPowerAddP" AddP="6"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>
+		</Properties>
+	</Modifier> 
+
+    <Modifier Name="Modifier_Guard__cangwu_sheng" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="GodCity_MaxResident" AddV="5000000"/>
+			<li Name="MindStateBaseValue" AddV="200"/>
+		</Properties>
+	</Modifier> 
+
+    <Modifier Name="Modifier_Guard__cangwu_huang" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="1"/>
+		</Properties>
+        <Skills>
+			<li Name="FightSkill" LevelOver="10"/>
+			<li Name="Barrier" LevelOver="10"/>
+			<li Name="Fight" LevelOver="10"/>
+		</Skills>
+	</Modifier> 
+
+    <Modifier Name="Modifier_Guard__cangwu_zhang" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="12"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="3"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="3"/>
+            <li Name="NpcFight_FabaoRepelDistanceAddV" AddV="3"/>
+            <li Name="NpcFight_FabaoFlySpeedAddP" AddP="3"/>
+            <li Name="NpcFight_FabaoTurnSpeedAddP" AddP="3"/>
+            <li Name="NpcFight_FabaoTurnSpeedAddV" AddV="3"/>
+		</Properties>
+        <Skills>
+			<li Name="Fabao" LevelOver="10"/>
+		</Skills>
+	</Modifier> 
+
+     <Modifier Name="Modifier_Guard__cangwu_bao" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcLingMaxValue" AddV="5000000"/>
+            <li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>
+            <li Name="LingAbsorbSpeed" AddP="200"/>
+		</Properties>
+        <Skills>
+			<li Name="Fight" LevelOver="10"/>
+		</Skills>
+	</Modifier> 
+
+    <Modifier Name="Modifier_Guard__cangwu_zhu" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="20"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>
+            <li Name="NpcFight_FabaoRepelDistanceAddV" AddV="10"/>
+            <li Name="NpcFight_FabaoFlySpeedAddP" AddP="10"/>
+            <li Name="NpcFight_FabaoTurnSpeedAddP" AddP="10"/>
+            <li Name="NpcFight_FabaoTurnSpeedAddV" AddV="10"/>
+            <li Name="LingAbsorbSpeed" AddP="500"/>
+            <li Name="MaxAge" AddV="9999"/>
+			<li Name="NpcLingMaxValue" AddV="10000000"/>
+            <li Name="NpcFight_ShieldConversionRateAddP" AddV="8"/>
+            <li Name="MoveSpeed" AddP="50"/>
+			
+		</Properties>
+        <Skills>
+			<li Name="FightSkill" LevelOver="10"/>
+			<li Name="Barrier" LevelOver="10"/>
+			<li Name="Fight" LevelOver="10"/>
+            <li Name="Fabao" LevelOver="10"/>
+		</Skills>
+	</Modifier> 
+</List></ModifierDefs>

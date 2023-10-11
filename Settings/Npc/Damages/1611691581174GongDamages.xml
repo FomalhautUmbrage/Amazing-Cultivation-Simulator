@@ -1,0 +1,24 @@
+<DamageDefs><List>
+
+	<Damage Name="Bixietianwei">
+		<DisplayName>辟邪天威</DisplayName>
+		<Lable>Ling</Lable>
+		<TreatConstant>0</TreatConstant>
+		<ValueMin>9</ValueMin>  
+		<ValueMax>10</ValueMax>
+		<Pain>5</Pain>
+		<Trend>0.8</Trend>
+	</Damage>
+
+	<Damage Name="Baijinzhixi">
+		<DisplayName>白金之息</DisplayName>                                      
+		<Lable>Jin</Lable>            
+		<TreatConstant>0</TreatConstant>
+		<ValueMin>5</ValueMin>
+		<ValueMax>10</ValueMax>
+		<Pain>2</Pain>
+		<Trend>0.2</Trend>
+	</Damage>
+
+
+</List></DamageDefs>

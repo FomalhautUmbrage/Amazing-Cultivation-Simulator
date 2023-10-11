@@ -1,0 +1,41 @@
+<Esotericas><List>
+	<!--<Esoterica Name="DanFang_TongYong">
+		<DisplayName>真丹要略</DisplayName>
+		<Desc>记录修行界常见丹药炼制方法的著作。</Desc>
+		<Element>Jin</Element>
+		<Exp>123</Exp>
+		<EffectDesc>各种强大的功能</EffectDesc>
+		<Skills>
+			<li>TSkillSkill</li>
+		</Skills>
+		<Dans>
+			<li>Dan_IncreaseLife4</li>
+			<li>Dan_IncreaseLife4</li>
+			<li>Dan_IncreaseLife4</li>
+			<li>Dan_IncreaseLife4</li>
+			<li>Dan_IncreaseLife4</li>
+			<li>Dan_IncreaseLife4</li>
+		</Dans>
+		<Places>
+			<li>Place_KunLun1</li>
+		</Places>
+		<Secrets>
+			<li>4</li>
+		</Secrets>
+		<Flags></Flags>
+		<Modifier>Dissatisfaction</Modifier>	
+	</Esoterica> -->
+	
+	
+	<Esoterica Name="Esoterica_MiBao_12">
+		<DisplayName>太上多情妙卷</DisplayName>
+		<StarLevel>2</StarLevel>
+		<Difficulty>15</Difficulty>
+		<Desc>传闻乃是多情天尊成道时留下的衣钵道统，其中记载有多情神剑的炼制方法。</Desc>
+		<Element>Huo</Element>
+		<EffectDesc>[size=10][color=#D06508]习得 秘宝：\n多情剑[/color][/size]</EffectDesc>
+		<Fabaos>
+			<li>MiBaoFormula_Duoqing</li>
+		</Fabaos>
+	</Esoterica> 
+</List></Esotericas>

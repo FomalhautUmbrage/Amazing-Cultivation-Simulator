@@ -1,0 +1,280 @@
+<ModifierDefs><List>
+
+
+	<Modifier Name="效果1610310739浩然正气" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="LingAbsorbSpeed" AddP="500"/>
+<li Name="NpcLingMaxValue" BAddP="500"/>
+<li Name="NpcLingMaxValue" BAddV="500"/>
+<li Name="NpcLingMaxValue" AddV="5000"/>
+<li Name="NpcLingMaxValue" AddP="50"/>
+
+		</Properties>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1607298054太玄羽衣" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldConversionRate" AddP="100000"/>
+<li Name="NpcFight_ShieldConversionRateAddP" AddV="100000"/>
+<li Name="NpcFight_ShieldResistanceToJin" AddV="100000"/>
+<li Name="NpcFight_ShieldResistanceToMu" AddV="100000"/>
+<li Name="NpcFight_ShieldResistanceToShui" AddV="100000"/>
+<li Name="NpcFight_ShieldResistanceToHuo" AddV="100000"/>
+<li Name="NpcFight_ShieldResistanceToTu" AddV="100000"/>
+<li Name="ToleranceTMin" AddV="-1000"/>
+<li Name="ToleranceTMax" AddV="10000"/>
+
+		</Properties>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610311595君临天下" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldConversionRate" AddP="9999"/>
+<li Name="NpcFight_ShieldResistanceToJin" AddV="5000"/>
+<li Name="NpcFight_ShieldResistanceToMu" AddV="5000"/>
+<li Name="NpcFight_ShieldResistanceToShui" AddV="5000"/>
+<li Name="NpcFight_ShieldResistanceToHuo" AddV="5000"/>
+<li Name="NpcFight_ShieldResistanceToTu" AddV="5000"/>
+<li Name="ToleranceTMin" AddV="-9999"/>
+<li Name="ToleranceTMax" AddV="9999"/>
+<li Name="NpcFight_SpellPowerAddP" AddP="5000"/>
+<li Name="NpcFight_ShieldConversionRateAddP" AddV="9999"/>
+<li Name="NpcFight_FabaoPowerAddP" AddP="5000"/>
+<li Name="NpcFight_FabaoLingRecoverAddP" AddP="5000"/>
+
+		</Properties>
+
+		<Skills>
+			<li Name="Fabao" LevelOver="5000"/>
+		</Skills>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610311991辟邪天威" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="99999"/>
+<li Name="NpcFight_SpellPowerAddP" AddP="99999"/>
+<li Name="NpcFight_ShieldConversionRateAddP" AddV="99999"/>
+<li Name="NpcFight_FabaoLingRecoverAddP" AddP="99999"/>
+<li Name="NpcFight_SpellCoolDownAddP" AddP="-9999"/>
+<li Name="NpcFight_SpellCastTimeAddP" AddP="-9999"/>
+<li Name="NpcFight_ShieldConversionRate" AddP="99999"/>
+<li Name="NpcLingMaxValue" BAddV="9999999"/>
+<li Name="NpcLingMaxValue" BAddP="999999"/>
+<li Name="NpcLingMaxValue" AddV="999999"/>
+<li Name="NpcLingMaxValue" AddP="999999"/>
+<li Name="LingAbsorbSpeed" AddP="999999"/>
+<li Name="RecoveryPower" AddP="9999"/>
+<li Name="MaxAge" AddV="9999"/>
+<li Name="NpcFight_FabaoCoolDownAddP" AddV="-100"/>
+
+		</Properties>
+		
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610314237太岁" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="LingAbsorbSpeed" AddP="999999999999999"/>
+<li Name="NpcLingMaxValue" BAddV="999999999999999"/>
+<li Name="NpcLingMaxValue" BAddP="999999999999999"/>
+<li Name="NpcLingMaxValue" AddP="999999999999999"/>
+<li Name="NpcLingMaxValue" AddV="999999999999999"/>
+<li Name="NpcFight_ShieldConversionRate" AddP="999999999999999"/>
+<li Name="MaxAge" AddV="999999999999999"/>
+<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="999999999999999"/>
+<li Name="MindStateBaseValue" AddV="999999999999999"/>
+<li Name="GlobalEfficiency" AddP="999999999999999"/>
+<li Name="NeckCountdownAddV" AddV="999999999999999"/>
+<li Name="RecoveryPower" AddP="999999999999999"/>
+<li Name="MoveSpeed" AddP="999999999999999"/>
+<li Name="IntelligenceSkillEXPConstant" AddP="999999999999999"/>
+<li Name="AbilityLvAddV" AddV="-999999999999999"/>
+<li Name="GodCity_MaxResident" AddV="999999999999999"/>
+<li Name="GodPenaltyAddV" AddV="-999999999999999"/>
+<li Name="PotentialOfBasepracticeAddValue" AddV="999999999999999"/>
+<li Name="WorldMapFlySpeedAddP" AddV="999999999999999"/>
+<li Name="ExperienceFindSpeedAddV" AddP="999999999999999"/>
+<li Name="NpcFight_SpellPowerAddP" AddP="999999999999999"/>
+<li Name="NpcFight_ShieldConversionRateAddP" AddV="999999999999999"/>
+<li Name="NpcFight_FabaoPowerAddP" AddP="999999999999999"/>
+<li Name="NpcFight_FabaoLingRecoverAddP" AddP="999999999999999"/>
+<li Name="NpcFight_SpellCastTimeAddP" AddP="-999999999999999"/>
+<li Name="NpcFight_SpellCoolDownAddP" AddP="-999999999999999"/>
+<li Name="FabaoMake_SpeedAddV" AddV="999999999999999"/>
+<li Name="FabaoMake_SuccessRateAddV" AddV="999999999999999"/>
+<li Name="FabaoMake_LingInheritRateAddV" AddV="999999999999999"/>
+<li Name="FabaoMake_QualityAddV" AddV="999999999999999"/>
+<li Name="FabaoMake_TwelveRateChance" AddP="999999999999999"/>
+<li Name="ToleranceTMin" AddV="-999999999999999"/>
+<li Name="ToleranceTMax" AddV="999999999999999"/>
+<li Name="DanMake_YieldAddP" AddV="99"/>
+<li Name="DanMake_SuccessRateAddV" AddV="999999999999999"/>
+<li Name="DanMake_SpeedAddV" AddV="999999999999999"/>
+<li Name="NpcFight_FabaoCoolDownAddP" AddV="-999999999999999"/>
+<li Name="NpcFight_ZhenKeyPointNum" AddV="999999999999999"/>
+<li Name="NpcFight_ZhenEnginePower" AddV="-999999999999999"/>
+<li Name="NpcFight_SneakValue" AddV="999999999999999"/>
+<li Name="NpcFight_ShieldResistanceToJin" AddV="999999999999999"/>
+<li Name="NpcFight_ShieldResistanceToMu" AddV="999999999999999"/>
+<li Name="NpcFight_ShieldResistanceToShui" AddV="999999999999999"/>
+<li Name="NpcFight_ShieldResistanceToHuo" AddV="999999999999999"/>
+<li Name="NpcFight_ShieldResistanceToTu" AddV="999999999999999"/>
+
+		</Properties>
+
+		<Skills>
+			<li Name="Fabao" LevelOver="999999999999999"/>
+		</Skills>
+		
+
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1607297731云游万里" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MoveSpeed" AddP="100000"/>
+<li Name="WorldMapFlySpeedAddP" AddV="100000"/>
+<li Name="ExperienceFindSpeedAddV" AddP="10000"/>
+
+		</Properties>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610312270北落师门" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			
+
+		</Properties>
+
+		<Skills>
+			<li Name="Fabao" LevelOver="1000000"/>
+		</Skills>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610313508东王经" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="500"/>
+<li Name="MindStateBaseValue" AddV="300"/>
+<li Name="MoveSpeed" AddP="5000"/>
+<li Name="IntelligenceSkillEXPConstant" AddP="5000"/>
+<li Name="PotentialOfBasepracticeAddValue" AddV="20"/>
+
+		</Properties>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610313788万宝归藏" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoNum" AddV="5"/>
+
+		</Properties>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610312467天道神器" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="FabaoMake_SpeedAddV" AddV="100"/>
+<li Name="FabaoMake_SuccessRateAddV" AddV="100"/>
+<li Name="FabaoMake_LingInheritRateAddV" AddV="100"/>
+<li Name="FabaoMake_QualityAddV" AddV="100"/>
+<li Name="FabaoMake_TwelveRateChance" AddP="100"/>
+
+		</Properties>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610313253太一两仪" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ZhenKeyPointNum" AddV="100"/>
+<li Name="NpcFight_ZhenEnginePower" AddV="-100"/>
+
+		</Properties>
+	</Modifier> 
+
+
+
+	<Modifier Name="效果1610312767天道神丹" Type="Normal">
+		<DisplayName></DisplayName>
+		<Desc></Desc>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="DanMake_YieldAddP" AddV="10"/>
+<li Name="DanMake_SuccessRateAddV" AddV="100"/>
+<li Name="DanMake_SpeedAddV" AddV="1000"/>
+
+		</Properties>
+	</Modifier> 
+
+
+</List></ModifierDefs>

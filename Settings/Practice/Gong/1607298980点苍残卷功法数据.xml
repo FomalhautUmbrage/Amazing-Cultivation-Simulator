@@ -1,0 +1,141 @@
+<Gongs><List>
+	<Gong Name="功法1607298978点苍残卷"> 
+		<DisplayName>点苍残卷</DisplayName>
+		<Desc>一幅残卷，其中似乎记载了来自另一个世界的无上大法，虽然篇幅混乱，内容糅杂还多有缺失，但此法神妙非常，非此世界的任何功法可比，纵使内容不全也可使得习成者远远凌驾于天道之上。</Desc>
+		<SelectDesc></SelectDesc>
+		<FiveBaseNeed>5,5,5,5,5</FiveBaseNeed>
+		<SkillSetName></SkillSetName>
+		<ElementKind>None</ElementKind>
+		<Skills> <!--chumo jiangdao guanding ciqi kaiguang cuiti bihu-->
+			<li>chumo</li>
+			<li>jiangdao</li>
+			<li>guanding</li>
+			<li>ciqi</li>
+			<li>kaiguang</li>
+			<li>cuiti</li>
+			<li>bihu</li>
+		</Skills>
+		<Hide>-1</Hide>
+		<Stages>
+
+			<Stage Name="Stage1" Level="3">
+				<DisplayName>翠微</DisplayName>
+				<Desc></Desc>
+				<Value>1000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>楹桷</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>青縹</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+			<Stage Name="Stage2" Level="6">
+				<DisplayName>稚秋</DisplayName>
+				<Desc></Desc>
+				<Value>3000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>秋序</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="Gold">
+						<DisplayName>惊秋</DisplayName>
+						<Desc></Desc>
+						<AddModifier>Gong_Gold</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+			<Stage Name="Stage3" Level="9">
+				<DisplayName>负星</DisplayName>
+				<Desc></Desc>
+				<Value>200000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>星络</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>天纪</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Thunder1</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+			<Stage Name="Stage4" Level="10">
+				<DisplayName>阅川</DisplayName>
+				<Desc></Desc>
+				<Value>200000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>负阴</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>抱阳</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Thunder2</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+			<Stage Name="Stage5" Level="12">
+				<DisplayName>日月同辉</DisplayName>
+				<Desc></Desc>
+				<Value>5000000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName></DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="God">
+						<DisplayName></DisplayName>
+						<Desc></Desc>
+						<ThunderValue>500000</ThunderValue>
+						<NeckCountdown>3000</NeckCountdown>
+						<AddModifier>Gong_Thunder3</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+		</Stages>
+	</Gong>
+</List></Gongs>

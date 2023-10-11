@@ -1,0 +1,10 @@
+<FabaoFormulas><List>
+	<!-- 多情剑 -->
+	<Fabao Name="MiBaoFormula_Duoqing">
+		<Normal>0</Normal>
+		<ItemName>Item_MiBao_Duoqing</ItemName>
+		<Level>20</Level>
+		<SuccessRate>-1</SuccessRate>
+		<Count>1</Count>
+	</Fabao>
+</List></FabaoFormulas>

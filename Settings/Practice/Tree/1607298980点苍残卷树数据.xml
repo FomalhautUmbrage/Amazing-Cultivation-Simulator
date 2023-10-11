@@ -1,0 +1,159 @@
+<SkillTree><List>
+	<Node Name="点苍残卷_序列1" Gong="功法1607298978点苍残卷">
+		<Esoterica>Magic_Prophesy_MapStory_1</Esoterica>
+		<DisplayName>大衍神算</DisplayName>
+		<Level>Dan1</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列3" Gong="功法1607298978点苍残卷">
+		<Esoterica>FightSkillEsoterica_Gong4_1</Esoterica>
+		<DisplayName>玉清太虚神雷</DisplayName>
+		<Level>God</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列6" Gong="功法1607298978点苍残卷">
+		<Esoterica>Magic_Prophesy_1</Esoterica>
+		<DisplayName>周天神算</DisplayName>
+		<Level>Dan1</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列7" Gong="功法1607298978点苍残卷">
+		<Esoterica>Magic_LiuRenShensuan</Esoterica>
+		<DisplayName>六壬神算</DisplayName>
+		<Level>Dan2</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列8" Gong="功法1607298978点苍残卷">
+		<Esoterica>Gong2_Esoterica_4</Esoterica>
+		<DisplayName>上清先天真焰</DisplayName>
+		<Level>God</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列13" Gong="功法1607298978点苍残卷">
+		<Esoterica>Gong2_Esoterica_3</Esoterica>
+		<DisplayName>丙丁雷泽火</DisplayName>
+		<Level>God</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列21" Gong="功法1607298978点苍残卷">
+		<Esoterica>技能1607298192云游万里</Esoterica>
+		<DisplayName>云游万里</DisplayName>
+		<Level>Dan1</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列25" Gong="功法1607298978点苍残卷">
+		<Esoterica>技能1607296801太玄功</Esoterica>
+		<DisplayName>太玄功</DisplayName>
+		<Level>Qi</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列26" Gong="功法1607298978点苍残卷">
+		<Esoterica>技能1607297055太玄羽衣</Esoterica>
+		<DisplayName>太玄羽衣</DisplayName>
+		<Level>Dan1</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列29" Gong="功法1607298978点苍残卷">
+		<Esoterica>技能1607298793阴阳无极功</Esoterica>
+		<DisplayName>阴阳无极功</DisplayName>
+		<Level>God2</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列45" Gong="功法1607298978点苍残卷">
+		<Esoterica>FightSkillEsoterica_1</Esoterica>
+		<DisplayName>先天罡气</DisplayName>
+		<Level>Qi</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列48" Gong="功法1607298978点苍残卷">
+		<Esoterica>FightSkillEsoterica_Gong9_1</Esoterica>
+		<DisplayName>逆转轮回</DisplayName>
+		<Level>God</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="点苍残卷_序列53" Gong="功法1607298978点苍残卷">
+		<Esoterica>Magic_FenShenZhiShu</Esoterica>
+		<DisplayName>分神之术</DisplayName>
+		<Level>God</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+
+</List></SkillTree>

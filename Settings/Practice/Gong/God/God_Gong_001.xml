@@ -1,0 +1,142 @@
+<Gongs><List>
+	<Gong Name="God_Gong_苍梧万界诸神金简">  
+		<DisplayName>苍梧万界诸神金简</DisplayName>
+		<Desc>上古时期便已断绝的神道修行之术，传自坐落于郁州的名门正宗，其中记载了源自此宗门的历代神佛。通过凝聚凡间的信仰可以召唤苍梧漫天神佛的身外化身作为护法，纵横八方。</Desc>
+		<SelectDesc>上古神修不同于传统的金丹修行，此法虽对天资不作要求，却需要凝聚红尘信仰之力，以唤源自苍梧的漫天神佛作为护法，是否要选择修习此功法？</SelectDesc>
+		<FiveBaseNeed>-1,-1,-1,-1,-1</FiveBaseNeed>
+		<ElementKind>None</ElementKind>
+		<GongKind>God</GongKind>
+		<Hide>2</Hide>
+		<Skill>
+			<li>hufaciyu</li>
+		</Skill>
+		<GodGuards>
+			<li></li>
+		</GodGuards>
+		<Magic>
+			<li>God_Xiuwei</li>
+			<li>God_XinZhai</li>
+		</Magic>
+		
+		<Stages>
+			<Stage Name="Stage1" Level="3">
+				<DisplayName>苦行</DisplayName>
+				<Desc></Desc>
+				<Value>5000</Value>
+				<Necks>
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>虔心</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>GodPractice_Gong_Qi</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+			
+			<Stage Name="Stage2" Level="6">
+				<DisplayName>传道</DisplayName>
+				<Desc></Desc>
+				<Value>35000</Value>
+				<Necks>
+					<Neck Location="1" Kind="GodCity">
+						<DisplayName>开辟</DisplayName>
+						<Desc></Desc>
+						<AddModifier>Gong_Gold</AddModifier>
+						<AddModifier>GodPractice_Gong_GodCity</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>				
+		
+			<Stage Name="Stage3" Level="9">
+				<DisplayName>苍梧神国</DisplayName>
+				<Desc></Desc>
+				<Value>50000000</Value>
+				<Necks>
+					<Neck Location="0.1" Kind="Chance">
+						<DisplayName>发丘天官</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>GodPractice_cangwu_1</AddModifier>
+					</Neck>
+					<Neck Location="0.2" Kind="Chance">
+						<DisplayName>抑郁战神</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>GodPractice_cangwu_2</AddModifier>
+					</Neck>
+					<Neck Location="0.3" Kind="Chance">
+						<DisplayName>金翅大鹏</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>GodPractice_cangwu_3</AddModifier>
+					</Neck>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>新海天罡</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>GodPractice_cangwu_4</AddModifier>
+					</Neck>
+                    <Neck Location="0.6" Kind="Chance">
+						<DisplayName>三才圣贤</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+                        <AddModifier>GodPractice_cangwu_5</AddModifier>
+					</Neck>
+                    <Neck Location="0.7" Kind="Chance">
+						<DisplayName>至尊护法</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+                        <AddModifier>GodPractice_cangwu_6</AddModifier>
+					</Neck>
+                    <Neck Location="0.8" Kind="Chance">
+						<DisplayName>土木战神</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+                        <AddModifier>GodPractice_cangwu_7</AddModifier>
+					</Neck>
+                    <Neck Location="0.9" Kind="Chance">
+						<DisplayName>纯爱战神</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+                        <AddModifier>GodPractice_cangwu_8</AddModifier>
+					</Neck>
+					<Neck Location="0.95" Kind="Chance">
+						<DisplayName>太岁</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+                        <AddModifier>GodPractice_cangwu_9</AddModifier>
+					</Neck>
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>蜕凡</DisplayName>
+						<Desc></Desc>
+						<CostTime>1200</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>GodPractice_Gong_God</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+			<Stage Name="Stage4" Level="12">
+				<DisplayName>苍梧天</DisplayName>
+				<Desc></Desc>
+				<Value>1</Value>
+				<Necks>
+					<Neck Location="1" Kind="Die">
+						<DisplayName>无上</DisplayName>
+						<Desc></Desc>
+						<ThunderValue>480000</ThunderValue>
+					</Neck>
+				</Necks>
+			</Stage>
+		</Stages>
+	</Gong>
+</List></Gongs>

@@ -1,0 +1,141 @@
+<Gongs><List>
+	<Gong Name="功法1610315965浩然"> 
+		<DisplayName>浩然</DisplayName>
+		<Desc>来源于异界的无上神功，其中蕴含天地寰宇相生之理。因此法不是此世界的产物，其中所记修炼之法与天道相悖，不仅对资质要求极高，且若强行修炼将大幅度增加道行。但若修成，便可超脱于因果逻辑之外，无视时间与空间的桎梏，凌驾于九天寰宇，远超尘世万象。</Desc>
+		<SelectDesc></SelectDesc>
+		<FiveBaseNeed>10,10,10,10,10</FiveBaseNeed>
+		<SkillSetName></SkillSetName>
+		<ElementKind>None</ElementKind>
+		<Skills> <!--chumo jiangdao guanding ciqi kaiguang cuiti bihu-->
+			<li>chumo</li>
+			<li>jiangdao</li>
+			<li>guanding</li>
+			<li>ciqi</li>
+			<li>kaiguang</li>
+			<li>cuiti</li>
+			<li>bihu</li>
+		</Skills>
+		<Hide>-1</Hide>
+		<Stages>
+
+			<Stage Name="Stage1" Level="3">
+				<DisplayName>天市</DisplayName>
+				<Desc></Desc>
+				<Value>1000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>天纪</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>九河</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+			<Stage Name="Stage2" Level="6">
+				<DisplayName>紫微</DisplayName>
+				<Desc></Desc>
+				<Value>3000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>天棓</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="Gold">
+						<DisplayName>玄戈</DisplayName>
+						<Desc></Desc>
+						<AddModifier>Gong_Gold</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+			<Stage Name="Stage3" Level="9">
+				<DisplayName>太微</DisplayName>
+				<Desc></Desc>
+				<Value>200000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName></DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>九曜</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Thunder1</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+			<Stage Name="Stage4" Level="10">
+				<DisplayName>北落师门</DisplayName>
+				<Desc></Desc>
+				<Value>200000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>日月同辉</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>辟邪天成</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Thunder2</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+			<Stage Name="Stage5" Level="12">
+				<DisplayName>浩然</DisplayName>
+				<Desc></Desc>
+				<Value>5000000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>溟涬</DisplayName>
+						<Desc></Desc>
+						<CostTime>50</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+
+					<Neck Location="1" Kind="God">
+						<DisplayName>太岁</DisplayName>
+						<Desc></Desc>
+						<ThunderValue>500000</ThunderValue>
+						<NeckCountdown>3000</NeckCountdown>
+						<AddModifier>Gong_Thunder3</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+
+
+		</Stages>
+	</Gong>
+</List></Gongs>

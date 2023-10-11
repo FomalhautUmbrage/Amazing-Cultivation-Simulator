@@ -1,0 +1,88 @@
+<ModifierDefs><List>
+
+    <Modifier Name="GodPractice_cangwu_1" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_faqiu</li>
+		</UnLockGodGuards>
+	</Modifier> 
+	
+	<Modifier Name="GodPractice_cangwu_2" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_yiyu</li>
+		</UnLockGodGuards>
+	</Modifier> 
+	
+	<Modifier Name="GodPractice_cangwu_3" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_dapeng</li>
+		</UnLockGodGuards>
+		<UnLockGodCityBuildings>  
+			<li>GodCity_WishTree</li>
+			<li>GodCity_LiuLiShenDian</li>
+			<li>GodCity_XinyangShendian</li>
+		</UnLockGodCityBuildings>
+	</Modifier> 
+	
+	<Modifier Name="GodPractice_cangwu_4" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_xinhai</li>
+		</UnLockGodGuards>
+	</Modifier> 
+
+    <Modifier Name="GodPractice_cangwu_5" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_sheng</li>
+		</UnLockGodGuards>
+	</Modifier> 
+
+    <Modifier Name="GodPractice_cangwu_6" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_hufa</li>
+		</UnLockGodGuards>
+	</Modifier> 
+
+    <Modifier Name="GodPractice_cangwu_7" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_zhang</li>
+		</UnLockGodGuards>
+	</Modifier> 
+
+    <Modifier Name="GodPractice_cangwu_8" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_bao</li>
+		</UnLockGodGuards>
+	</Modifier> 
+
+    <Modifier Name="GodPractice_cangwu_9" Type="Normal">
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<UnLockGodGuards>  
+			<li>Guard_cangwu_zhu</li>
+		</UnLockGodGuards>
+	</Modifier> 
+</List></ModifierDefs>

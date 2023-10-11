@@ -1,0 +1,74 @@
+<GodGuardDefs><List>	
+	<Def Name="Guard_cangwu_faqiu">
+		<DisplayName>发丘天官</DisplayName>
+		<Rate>6</Rate>
+		<Names>王</Names>
+		<Icon>张起灵.png</Icon>
+		<Desc>源自苍梧之山的发丘派传人王一帆的身外化身，左手持发丘天印，底部刻有“天官赐福，百无禁忌。”的篆字，右手持黑金古刀，辟易百邪。供奉此护法可提高法宝威力、灵气最大值与御器等级。</Desc>
+		<Modifier>Modifier_Guard_cangwu_wang</Modifier>
+	</Def>	
+	<Def Name="Guard_cangwu_yiyu">
+		<DisplayName>抑郁战神</DisplayName>
+		<Rate>9</Rate>
+		<Names>封</Names>
+		<Icon>绯红之王.png</Icon>
+		<Desc>源自苍梧之山的抑郁战神封卜玮的身外化身，此神由天地极阴郁之气所化，拥有莫大的神威。供奉此护法可提高术法威力与等级，灵气护盾与最大值。</Desc>
+		<Modifier>Modifier_Guard_cangwu_feng</Modifier>
+	</Def>
+	<Def Name="Guard_cangwu_dapeng">
+		<DisplayName>金翅大鹏</DisplayName>
+		<Rate>12</Rate>
+		<Names>王</Names>
+		<Icon>大鹏.jfif</Icon>
+		<Desc>源自苍梧之山的金翅大鹏王鹏远的身外化身，名号“云程万里鹏”，行动时，抟风运海，振北图南，瞬息万里，供奉此护法可极大限度的提高历练与法宝飞行速度。</Desc>
+		<Modifier>Modifier_Guard_cangwu_dapeng</Modifier>
+	</Def>
+	<Def Name="Guard_cangwu_xinhai">
+		<DisplayName>新海天罡</DisplayName>
+		<Rate>15</Rate>
+		<Names>武</Names>
+		<Icon>新海天罡.jfif</Icon>
+		<Desc>源自苍梧之山的众新海天罡的身外化身，据传这些天罡们皆乃众星转世，各有超绝的天资，供奉此护法可中量提高各方面的能力。</Desc>
+		<Modifier>Modifier_Guard__cangwu_xinhai</Modifier>
+	</Def>
+	<Def Name="Guard_cangwu_sheng">
+		<DisplayName>三才圣贤</DisplayName>
+		<Rate>18</Rate>
+		<Names>穆</Names>
+		<Icon>穆圣福音.png</Icon>
+		<Desc>源自苍梧之山的三才圣贤穆颢铭的身外化身，此神拥有逆转生死的大能，供奉此护法可永久提高心境，提高神民上限，并获得神通：“反朽归荣”。</Desc>
+		<Modifier>Modifier_Guard_cangwu_sheng</Modifier>
+	</Def>
+	<Def Name="Guard_cangwu_hufa">
+		<DisplayName>至尊护法</DisplayName>
+		<Rate>18</Rate>
+		<Names>黄</Names>
+		<Icon>黄大仙.jpg</Icon>
+		<Desc>源自苍梧之山的黄大护法的身外化身，据传此神乃黄大仙的转世，拥有举世无双的强横肉体，供奉此护法可巨量提高战斗技能等级灵力护盾与护体等级。</Desc>
+		<Modifier>Modifier_Guard__cangwu_huang</Modifier>
+	</Def>
+	<Def Name="Guard_cangwu_zhang">
+		<DisplayName>土木战神</DisplayName>
+		<Rate>18</Rate>
+		<Names>张</Names>
+		<Icon>独孤求败.png</Icon>
+		<Desc>源自苍梧之山的土木战神张煜承的身外化身，因其最终多情成圣，也被称为“多情天尊”，剑术通神，供奉此护法可巨量提高御剑等级与法宝各方面能力。</Desc>
+		<Modifier>Modifier_Guard__cangwu_zhang</Modifier>
+	</Def>
+	<Def Name="Guard_cangwu_bao">
+		<DisplayName>纯爱战神</DisplayName>
+		<Rate>18</Rate>
+		<Names>包</Names>
+		<Icon>白金之星.png</Icon>
+		<Desc>源自苍梧之山的纯爱战神包轩诚的身外化身，因其曾为华杰天皇，也被华杰之野的黎民尊称为“华杰之主”，拥有着无与伦比的力量、速度，与精确度。供奉此护法可巨量提高灵力最大值、法宝回灵速度和战斗等级</Desc>
+		<Modifier>Modifier_Guard__cangwu_bao</Modifier>
+	</Def>
+	<Def Name="Guard_cangwu_zhu">
+		<DisplayName>太岁</DisplayName>
+		<Rate>18</Rate>
+		<Names>朱</Names>
+		<Icon>北洛-2.JPG</Icon>
+		<Desc>源自苍梧之山的太岁神朱浩然的身外化身，此神拥有抹除因果逻辑，超脱生死轮回且不受时间与空间的桎梏，凌驾于九天寰宇，远超尘世万象的神力，供奉此护法将巨量提高各方面能力。</Desc>
+		<Modifier>Modifier_Guard__cangwu_zhu</Modifier>
+	</Def>
+</List></GodGuardDefs>

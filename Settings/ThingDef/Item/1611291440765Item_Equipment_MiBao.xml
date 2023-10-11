@@ -1,0 +1,269 @@
+<ThingDefs><List>
+	
+	<ThingDef Type="Item" Name="Item_MiBao_Taisui" Parent="MiBaoBase">
+	<ThingName>太岁</ThingName>
+	<TexPath>太岁.png</TexPath>	
+	<TexScale>0.15</TexScale>
+	<FabaoTexPath>法宝太岁.png</FabaoTexPath>
+	<Desc>上古时的杀戮之剑，由轩辕黄帝时期的西陵第一工匠婆烨所铸，尽管先后经历了两次锻造，却仍是一柄未完之器。此剑第一任主人缙云曾在第二次锻造时往其中融入了辟邪骨血，使得此剑之力霸道如斯，非人可御。且其它再强的凡界兵器也至多是用以人类部族间的杀伐，而太岁却是斩杀了数不尽的魔，至今剑中仍有无数怨气环绕，甚是凶煞。在经过第二任主人北洛的使用过后，其中辟邪之力更甚，甚至使此剑拥有了撕裂空间的大能。（装备后在永夜中右键以尝试吸收来自异界的力量）
+“太岁刃下，千锋辟易。”</Desc>
+	<ElementKind>None</ElementKind>
+	<Item Kind="Equipment">
+		<Equip>
+			<ToolModifier>太岁之力</ToolModifier>
+		</Equip>
+		<PhysicalLables>
+			<li>Taisui</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				<Item name = "Item_Wonder_WanDaoZunFaZuo" count = "1"/>
+				<Item name = "Item_Wonder_QiQingQingTongShu" count = "1"/>
+				<Item name = "Item_Wonder_ZhouTianXingDouPan" count = "1"/>
+				<Item name = "Item_Wonder_WuLongXuanJinTa" count ="1"/>
+				<Item name = "Item_Wonder_ShuShanJianChi" count ="1"/>
+				<Item name = "Item_Wonder_LingYuFeng" count ="1"/>
+				<Item name = "Item_Wonder_WanGuXieFaTan" count ="1"/>
+				<Item name = "Item_Wonder_XuanCiTianKeng" count ="1"/>
+				<Item name = "Item_Wonder_QiShaShenBei" count ="1"/>
+				<Item name = "Item_Wonder_XuanYinShengQuan" count ="1"/>
+				<Item name = "Item_Wonder_QianKunLingJing" count ="1"/>
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "Other" des = "吸收9次来自异界的力量" needcount = "9"/>
+			</ActiveCondition>
+			<SpecialAbility>
+			     <Ability Kind="HitCountAddDamage" nParam1="1" sParam1="TheWholeBody" sParam2="Bixietianwei" Desc="【辟邪天威】太岁含有霸烈的辟邪之力，每次攻击修行者本体，都会穿透护盾造成额外伤害。"/>
+				 <Ability Kind="HitCountAddMirror" nParam1="1" nParam2="36" fParam1="5" Desc="【千锋辟易】每次攻击都将产生产生36道剑光分化，持续5秒"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="0.5" fParam2="4" nParam1="0" Desc="【纵横四野】造成伤害时，有50%的几率造成4倍伤害。"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="0.5" nParam1="2" Desc="【剑破万法】与法宝拼斗时，造成9倍伤害。"/>
+				 <Ability Kind="HitSameFabaoAndEffect" nParam1="1" nParam2="1" Desc="【太岁严威】太岁拥有着睥睨万物的神威，普通的仙器法宝在太岁面前将直接失效。"/>
+			
+			</SpecialAbility>
+		</Fabao>
+		<UseLua>GameMain:GetMod('_FabaoHelper'):FabaoActiveWeather({'PermanentNight','PolarNight','YinChaos'})</UseLua>
+	</Item>
+	<Element>
+		<Kind>None</Kind>
+	</Element>
+	</ThingDef>
+
+	<ThingDef Type="Item" Name="Item_MiBao_Duoqing" Parent="MiBaoBase">
+	<ThingName>多情剑</ThingName>
+	<TexPath>res\Sprs\object_zhengfatianxia\object_PTjian01</TexPath>	
+	<FabaoTexPath>res\Sprs\object_zhengfatianxia\object_MBjian01</FabaoTexPath>
+	<Desc>多情天尊张煜承入圣前的炼魔之宝，张煜承曾将自身七情尽数炼入其中，每次出剑都将对目标本体发出一道七情真气，威力绝伦。然多情伤人，执剑者往往会陷入自己的七情回忆之中，令人心情不悦的同时还会对心境造成损伤。若不携带此剑胚胎入定百年，从静中悟了本心，不得驾驭。</Desc>
+	<ElementKind>Jin</ElementKind>
+	<Item Kind="Equipment">
+		<Equip>
+			<ToolModifier>太上多情</ToolModifier>
+		</Equip>
+		<PhysicalLables>
+			<li>Duoqing</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				
+				<Item name = "Item_Wonder_QiQingQingTongShu" count = "1"/>
+				
+				<Item name = "Item_Wonder_ShuShanJianChi" count ="1"/>
+				
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "Trance" des = "携带胚胎入定百年" needcount = "100"/>
+			</ActiveCondition>
+			<SpecialAbility>
+			     <Ability Kind="HitCountCostSkill" nParam1="1"  sParam1="DamageSkill_4" Desc="【七情】每次攻击会对目标本体发出一道七情真气。"/>
+			</SpecialAbility>
+		</Fabao>
+	</Item>
+	<Element>
+		<Kind>Jin</Kind>
+	</Element>
+	</ThingDef>
+
+	<ThingDef Type="Item" Name="Item_MiBao_Yushao" Parent="MiBaoBase">
+	<ThingName>㱾鋆御哨</ThingName>
+	<TexPath>res\Sprs\object_zhengfatianxia\object_PTchi01</TexPath>	
+	<FabaoTexPath>res\Sprs\object_zhengfatianxia\object_MBchi01</FabaoTexPath>
+	<Desc>玄天至宝，外表由纯金打造，形制古朴华丽，哨边由赤青白黄四色金玉所制，再以天道秘法将九九之数的天劫之息炼入其中，据传此宝拥有“调阴阳，理天纲”的大能。原本早已遗失，却被来自华杰之野的山人偶得，此宝灵气容量极其浑厚，祭出之后虽无伤敌之能，但可护御周身不受敌人飞剑侵害。</Desc>
+	<ElementKind>Jin</ElementKind>
+	<Item Kind="Equipment">
+		<Equip>
+			<ToolModifier>华杰之主</ToolModifier>
+		</Equip>
+		<PhysicalLables>
+			<li>Yushao</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				<Item name = "Item_ExtremeJade" count = "1"/>
+				<Item name = "Item_ThunderAir" count = "36"/>
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "UseNpcJing" des = "携带宝物消耗10W精元" needcount = "100000" />
+			</ActiveCondition>
+			<SpecialAbility>
+			     <Ability Kind="CantAttack" Desc="【天道护体】玄天至宝，暗合天道至理，一旦发动，纵是诛仙神剑也休想近身。"/>
+			</SpecialAbility>
+		</Fabao>
+	</Item>
+	<Element>
+		<Kind>Jin</Kind>
+	</Element>
+	</ThingDef>
+
+	<ThingDef Type="Item" Name="Item_MiBao_Jiutianmimo" Parent="MiBaoBase">
+	<ThingName>九天秘魔神刀</ThingName>
+	<TexPath>res\Sprs\object_zhengfatianxia\object_PTdao01</TexPath>	
+	<FabaoTexPath>res\Sprs\object_zhengfatianxia\object_MBdao01</FabaoTexPath>
+	<Desc>来自魔域的至邪之物，以万千邪念炼制而成，祭出时煞气逼人，可令敌方法宝暂时失效。后因机缘巧合而落入华杰之野，虽然已失去昔日之凶煞神威，但可与㱾鋆御哨并称为华杰两大秘宝，若想使用此宝，需携带此宝灵胎击杀36位男性生灵。</Desc>
+	<ElementKind>Huo</ElementKind>
+	<Item Kind="Equipment">
+		<PhysicalLables>
+			<li>Jiutianmimo</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				<Item name = "Item_XianDaoXieNian" count = "99"/>
+				<Item name = "Item_BenYuan_Huo" count = "36"/>
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "KillCount" des = "携带宝物胚胎击杀36男性生灵" needcount = "36" sex = "1"/>
+			</ActiveCondition>
+			<SpecialAbility>
+			     <Ability Kind="HitSameFabaoAndEffect" nParam1="9" nParam2="1" Desc="【九天秘魔神煞】祭出此宝后可借助九天秘魔神煞之力，每攻击同一个法宝9次，可使其失效，持续时间与其品阶有关。"/>
+			</SpecialAbility>
+		</Fabao>
+	</Item>
+	<Element>
+		<Kind>Huo</Kind>
+	</Element>
+	</ThingDef>
+
+	<ThingDef Type="Item" Name="Item_MiBao_Wannian" Parent="MiBaoBase">
+	<ThingName>万念剑</ThingName>
+	<TexPath>res\Sprs\object_zhengfatianxia\object_PTjian01</TexPath>	
+	<FabaoTexPath>res\Sprs\object_zhengfatianxia\object_MBjian01</FabaoTexPath>
+	<Desc>多情天尊张煜承入圣前的炼魔之宝，张煜承曾将自身万千念想尽数炼入其中，出剑时这万千念想将分化多条，神妙无比。可此剑中万念萦绕，将极大幅度影响执剑者的心境，且若不携带此剑胚胎入定百年，从静中悟了本心，不得驾驭。</Desc>
+	<ElementKind>Tu</ElementKind>
+	<Item Kind="Equipment">
+		<Equip>
+			<ToolModifier>万念</ToolModifier>
+		</Equip>
+		<PhysicalLables>
+			<li>Wannian</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				
+				<Item name = "Item_Wonder_QiQingQingTongShu" count = "1"/>
+				
+				<Item name = "Item_Wonder_ShuShanJianChi" count ="1"/>
+				
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "Trance" des = "携带胚胎入定百年" needcount = "100"/>
+			</ActiveCondition>
+			<SpecialAbility>
+			     <Ability Kind="HitCountAddMirror" nParam1="1" nParam2="24" fParam1="1" Desc="【万念斩魔】每次攻击都将产生产生24道剑光分化，持续1秒"/>
+			</SpecialAbility>
+		</Fabao>
+	</Item>
+	<Element>
+		<Kind>Tu</Kind>
+	</Element>
+	</ThingDef>
+
+	<ThingDef Type="Item" Name="Item_MiBao_Zhannianpowang" Parent="MiBaoBase">
+	<ThingName>斩念破妄剑</ThingName>
+	<TexPath>res\Sprs\object_zhengfatianxia\object_PTjian01</TexPath>	
+	<FabaoTexPath>res\Sprs\object_zhengfatianxia\object_MBjian01</FabaoTexPath>
+	<Desc>多情天尊张煜承斩断三千情丝，万千念想后成功证道，以七世情孽炼化的玄天至宝，其中神力之强甚至可以轻易的影响他人魂魄神识。可当此剑流落凡界后沾染凡尘之息，从而激发了其中情孽煞气，需得携带此宝胚胎度过24次飞升天劫，以天劫之力灭去其中煞气方可使用。</Desc>
+	<ElementKind>Huo</ElementKind>
+	<Item Kind="Equipment">
+		<PhysicalLables>
+			<li>Zhannianpowang</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				
+				<Item name = "Item_Wonder_QiQingQingTongShu" count = "49"/>
+				
+				<Item name = "Item_Wonder_ShuShanJianChi" count ="24"/>
+				
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "BrokenNeck" des = "携带宝物度过24次飞升天劫" needcount = "24" lParam = "God2" />
+			</ActiveCondition>
+			<SpecialAbility>
+			     <Ability Kind="HitCountAddDamage" nParam1="15" sParam1="Heart" sParam2="Huo_HeartBurn" Desc="【欲火】此剑每15次攻击修行者本体，都可以勾起敌人欲火，造成焚心伤害。"/>
+				 <Ability Kind="HitCountAddDamage" nParam1="20" sParam1="Brain" sParam2="Damage_Kidnap_MiHun" Desc="【迷魂】此剑每20次攻击修行者本体，都可以勾起敌方妄念，有迷魂之效。"/>
+				 <Ability Kind="HitCountAddDamage" nParam1="24" sParam1="Brain" sParam2="SoulOutOfBrain" Desc="【离魂】此剑每24次攻击修行者本体，都可以重创其魂魄，使其魂魄不合。"/>
+				 <Ability Kind="HitCountAddDamage" nParam1="25" sParam1="Brain" sParam2="Damage_GongXinYin_Damage" Desc="【心魔】此剑每25次攻击修行者本体，都可以勾起敌方心魔，重创其神魂。"/>
+				 <Ability Kind="HitCountAddDamage" nParam1="35" sParam1="Brain" sParam2="ZaoHuaYuLu_YuanShenJiMie" Desc="【寂灭】斩念破妄剑将在第35次攻击时引多情天尊张煜承之神威，使敌方元神寂灭。"/>
+				 <Ability Kind="HitCountAddDamage" nParam1="44" sParam1="Brain" sParam2="Damage_TianDaoBenYuan2" Desc="【湮灭】斩念破妄剑将在第44次攻击时彻底觉醒，引多情天尊张煜承之神威，使敌方神识湮灭。"/>
+			</SpecialAbility>
+		</Fabao>
+	</Item>
+	<Element>
+		<Kind>Huo</Kind>
+	</Element>
+	</ThingDef>
+
+	<ThingDef Type="Item" Name="Item_MiBao_Baijinzhixing" Parent="MiBaoBase">
+	<ThingName>白金之星</ThingName>
+	<TexPath>白金之星.png</TexPath>
+	<TexScale>0.40</TexScale>	
+	<FabaoTexPath>星星.png</FabaoTexPath>
+	<Desc>纯爱战神包轩诚的护道之宝，似是由包轩诚自身的精神力炼化而成，玄妙非常。此宝拥有着无与伦比的力量、速度，与精确度，装备此宝后也将受包轩诚强大的精神力影响，从而突破各方面能力极限20级并获得波澜不惊的心境。若想激活此宝，需用此宝灵胎连续吸收满29天的漫天星光。</Desc>
+	<ElementKind>Jin</ElementKind>
+	<Item Kind="Equipment">
+		<PhysicalLables>
+			<li>Baijinzhixing</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				
+				<Item name = "Item_God_Guard1" count = "29"/>
+				
+				<Item name = "Item_God_Guard2" count ="29"/>
+
+				<Item name = "Item_God_Guard3" count ="29"/>
+				
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "Other" des = "连续吸收29天的天界星光" needday = "29" continuity = "1"/>
+			</ActiveCondition>
+			<SpecialAbility>
+			     
+				 <Ability Kind="Sync_AddEquptDataModifier" sParam1="Mibao_Baijinzhixing" Desc="【精神力】受包轩诚强大的精神力影响，各方面突破极限20级并大幅度提高心境"/>
+				 <Ability Kind="HitCountAddDamage" nParam1="29" sParam1="TheWholeBody" sParam2="Baijinzhixi" Desc="【白金之息】白金之星每攻击敌方29次，都会对敌方造成白金之息入体，造成大量伤害。"/>
+
+			</SpecialAbility>
+		</Fabao>
+	</Item>
+	<Element>
+		<Kind>Jin</Kind>
+	</Element>
+	</ThingDef>
+
+
+
+
+
+</List></ThingDefs>

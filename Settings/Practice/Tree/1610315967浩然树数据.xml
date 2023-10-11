@@ -1,0 +1,195 @@
+<SkillTree><List>
+	<Node Name="浩然_序列6" Gong="功法1610315965浩然">
+		<Esoterica>Gong2_Esoterica_2</Esoterica>
+		<DisplayName>灵淬法</DisplayName>
+		<Level>Dan1</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列7" Gong="功法1610315965浩然">
+		<Esoterica>FightSkillEsoterica_4</Esoterica>
+		<DisplayName>元磁灭绝神光</DisplayName>
+		<Level>Dan2</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列11" Gong="功法1610315965浩然">
+		<Esoterica>Gong9_LvUpEsoterica_4</Esoterica>
+		<DisplayName>不昧真灵</DisplayName>
+		<Level>Dan1</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列12" Gong="功法1610315965浩然">
+		<Esoterica>FightSkillEsoterica_Gong4_1</Esoterica>
+		<DisplayName>玉清太虚神雷</DisplayName>
+		<Level>Dan2</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列25" Gong="功法1610315965浩然">
+		<Esoterica>技能1610310739浩然正气</Esoterica>
+		<DisplayName>浩然正气</DisplayName>
+		<Level>Qi</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列26" Gong="功法1610315965浩然">
+		<Esoterica>技能1607298054太玄羽衣</Esoterica>
+		<DisplayName>太玄羽衣</DisplayName>
+		<Level>Dan1</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列27" Gong="功法1610315965浩然">
+		<Esoterica>技能1610311595君临天下</Esoterica>
+		<DisplayName>君临天下</DisplayName>
+		<Level>Dan2</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列28" Gong="功法1610315965浩然">
+		<Esoterica>技能1610311991辟邪天威</Esoterica>
+		<DisplayName>辟邪天威</DisplayName>
+		<Level>God</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列29" Gong="功法1610315965浩然">
+		<Esoterica>技能1610314237太岁</Esoterica>
+		<DisplayName>太岁</DisplayName>
+		<Level>God2</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列31" Gong="功法1610315965浩然">
+		<Esoterica>技能1607297731云游万里</Esoterica>
+		<DisplayName>云游万里</DisplayName>
+		<Level>Dan1</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列33" Gong="功法1610315965浩然">
+		<Esoterica>技能1610312270北落师门</Esoterica>
+		<DisplayName>北落师门</DisplayName>
+		<Level>God</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列35" Gong="功法1610315965浩然">
+		<Esoterica>技能1610313508东王经</Esoterica>
+		<DisplayName>东王经</DisplayName>
+		<Level>Qi</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列41" Gong="功法1610315965浩然">
+		<Esoterica>技能1610313788万宝归藏</Esoterica>
+		<DisplayName>万宝归藏</DisplayName>
+		<Level>Dan1</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列42" Gong="功法1610315965浩然">
+		<Esoterica>技能1610312467天道神器</Esoterica>
+		<DisplayName>天道神器</DisplayName>
+		<Level>Dan2</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列43" Gong="功法1610315965浩然">
+		<Esoterica>技能1610313253太一两仪</Esoterica>
+		<DisplayName>太一两仪</DisplayName>
+		<Level>God</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="浩然_序列47" Gong="功法1610315965浩然">
+		<Esoterica>技能1610312767天道神丹</Esoterica>
+		<DisplayName>天道神丹</DisplayName>
+		<Level>Dan2</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+
+</List></SkillTree>

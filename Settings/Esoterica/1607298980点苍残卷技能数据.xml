@@ -1,0 +1,67 @@
+<Esotericas><List>
+
+	<Esoterica Name="技能1607298192云游万里">
+		<DisplayName>云游万里</DisplayName>
+		<Icon>res/Sprs/ui/icon_shenguo_yun</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>1</Difficulty>
+		<Desc>以太玄功之力御空而行，瞬息万里。</Desc>
+		<GLevel>Dan1</GLevel>
+		<Element>None</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]巨量增加移动速度与飞行速度。[/color][/size]</EffectDesc>
+		<Modifier>效果1607298192云游万里</Modifier>	
+		<Spells></Spells>
+		<Magics></Magics>
+		<Dans></Dans>
+	</Esoterica>
+
+	<Esoterica Name="技能1607296801太玄功">
+		<DisplayName>太玄功</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>1</Difficulty>
+		<Desc>属内功修炼之法，诣在追求天人合一的Qi：“盖壤合，七辰聚，匀于气，会于心，专于神。”意为通过呼吸、吐纳、运气的方法将天地、日月、群星之间的灵力通过七百二十个穴位，十二正经，奇经八脉遍于全身，“神气之所游行出入也，非皮肉筋骨也”但又使其会于丹田，并以绝对的专注来操控、感受这些灵力。若能做到以上要求，那么术者便进入了仙人的Qi，可以通过灵力来操纵自然，且能使自身各方面能力提高数倍。</Desc>
+		<GLevel>Qi</GLevel>
+		<Element>None</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]巨量增加灵气恢复速度、寿元、最大灵气与根本灵气。[/color][/size]</EffectDesc>
+		<Modifier>效果1607296801太玄功</Modifier>	
+		<Spells></Spells>
+		<Magics></Magics>
+		<Dans></Dans>
+	</Esoterica>
+
+	<Esoterica Name="技能1607297055太玄羽衣">
+		<DisplayName>太玄羽衣</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichuhuti</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>1</Difficulty>
+		<Desc>由苍山林氏第二代掌门林玄烛所创，因林慕云多数仙法皆随心而生，并无特意的方法与招式，林玄烛便将林慕云的仙法系统的化为一套招式，以便后人学习。太玄功练成之后便可修炼“太玄羽衣”以太玄功力化为一身无坚不摧的灵力甲胄，金石之坚，纵使天崩地裂也难以损伤其分毫。</Desc>
+		<GLevel>Qi</GLevel>
+		<Element>None</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]巨量提升护盾强度、极限温度与None抗性。[/color][/size]</EffectDesc>
+		<Modifier>效果1607297055太玄羽衣</Modifier>	
+		<Spells></Spells>
+		<Magics></Magics>
+		<Dans></Dans>
+	</Esoterica>
+
+	<Esoterica Name="技能1607298793阴阳无极功">
+		<DisplayName>阴阳无极功</DisplayName>
+		<Icon>res/Sprs/ui/icon_shenguo_tian</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>1</Difficulty>
+		<Desc>由林慕云所创的无上神功，阴阳共济，内力也可以随着None的生克自由变幻，五运六气皆在掌控之中。简而言之，此神功内力如河汉无极一般，无穷无尽，世上无一内功可比，且变化莫测，敌人若是用阴邪内力攻来，则己可以更阴寒之内力或至阳内力还击，反之同理。虽说如此，但阴阳无极功多数时候并不需要进行阴阳None生克上的变换，因为阴阳无极功本身就霸道如斯，不仅可以撕裂空间，甚至对于时间也有某种程度的影响，所以无论对方的内力如何，自己只要以无穷无尽、撼天动地般的灵力打回去，对方便招架不住。神功便是敌虽强，己更强，永远压敌一头。</Desc>
+		<GLevel>God2</GLevel>
+		<Element>None</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]无上神功，凌驾于天道神道之上。[/color][/size]</EffectDesc>
+		<Modifier>效果1607298793阴阳无极功</Modifier>	
+		<Spells></Spells>
+		<Magics></Magics>
+		<Dans></Dans>
+	</Esoterica>
+
+</List></Esotericas>

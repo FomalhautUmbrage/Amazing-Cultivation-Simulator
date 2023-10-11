@@ -1,0 +1,603 @@
+<SkillTree><List>
+	<Node Name="测试法_序列0" Gong="功法1607374719测试法">
+		<Esoterica>FightSkillEsoterica_3</Esoterica>
+		<DisplayName>庚金神雷</DisplayName>
+		<Level>Qi</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列1" Gong="功法1607374719测试法">
+		<Esoterica>Gong5_Esoterica_5</Esoterica>
+		<DisplayName>九幽返照</DisplayName>
+		<Level>Dan1</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列2" Gong="功法1607374719测试法">
+		<Esoterica>Gong7_Esoterica_9</Esoterica>
+		<DisplayName>风神云体</DisplayName>
+		<Level>Dan2</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列3" Gong="功法1607374719测试法">
+		<Esoterica>Esoterica_ZhenFa_16</Esoterica>
+		<DisplayName>天道化阵：日月之道</DisplayName>
+		<Level>God</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列4" Gong="功法1607374719测试法">
+		<Esoterica>Esoterica_ZhenFa_27</Esoterica>
+		<DisplayName>鸿蒙之阵：万物陨灭</DisplayName>
+		<Level>God2</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列5" Gong="功法1607374719测试法">
+		<Esoterica>FightSkillEsoterica_4</Esoterica>
+		<DisplayName>元磁灭绝神光</DisplayName>
+		<Level>Qi</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列6" Gong="功法1607374719测试法">
+		<Esoterica>Gong5_Esoterica_4</Esoterica>
+		<DisplayName>气运之蚀</DisplayName>
+		<Level>Dan1</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列7" Gong="功法1607374719测试法">
+		<Esoterica>Gong7_Esoterica_10</Esoterica>
+		<DisplayName>斩道见我</DisplayName>
+		<Level>Dan2</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列8" Gong="功法1607374719测试法">
+		<Esoterica>Esoterica_ZhenFa_15</Esoterica>
+		<DisplayName>河洛先天神阵：魔帝真解</DisplayName>
+		<Level>God</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列9" Gong="功法1607374719测试法">
+		<Esoterica>Esoterica_MiBao_10</Esoterica>
+		<DisplayName>瑶池玉书</DisplayName>
+		<Level>God2</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列10" Gong="功法1607374719测试法">
+		<Esoterica>FightSkillEsoterica_Gong3_1</Esoterica>
+		<DisplayName>神剑共鸣</DisplayName>
+		<Level>Qi</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列11" Gong="功法1607374719测试法">
+		<Esoterica>Gong5_Esoterica_7</Esoterica>
+		<DisplayName>护体血罡</DisplayName>
+		<Level>Dan1</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列12" Gong="功法1607374719测试法">
+		<Esoterica>Gong9_Esoterica_6</Esoterica>
+		<DisplayName>轮回经</DisplayName>
+		<Level>Dan2</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列13" Gong="功法1607374719测试法">
+		<Esoterica>Other_Esoterica_FenShen4</Esoterica>
+		<DisplayName>三尸分神法：本我之斩</DisplayName>
+		<Level>God</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列15" Gong="功法1607374719测试法">
+		<Esoterica>FightSkillEsoterica_Gong4_2</Esoterica>
+		<DisplayName>厚土之盾</DisplayName>
+		<Level>Qi</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列16" Gong="功法1607374719测试法">
+		<Esoterica>Gong5_Esoterica_10</Esoterica>
+		<DisplayName>欺天</DisplayName>
+		<Level>Dan1</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列17" Gong="功法1607374719测试法">
+		<Esoterica>Gong11_Esoterica_6</Esoterica>
+		<DisplayName>灵视神观</DisplayName>
+		<Level>Dan2</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列18" Gong="功法1607374719测试法">
+		<Esoterica>Other_Esoterica_FenShen3</Esoterica>
+		<DisplayName>三尸分神法：恶我之斩</DisplayName>
+		<Level>God</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列20" Gong="功法1607374719测试法">
+		<Esoterica>Gong1_Esoterica_3</Esoterica>
+		<DisplayName>乘风诀</DisplayName>
+		<Level>Qi</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列21" Gong="功法1607374719测试法">
+		<Esoterica>Gong5_Esoterica_11</Esoterica>
+		<DisplayName>窃天</DisplayName>
+		<Level>Dan1</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列22" Gong="功法1607374719测试法">
+		<Esoterica>Gong11_Esoterica_4</Esoterica>
+		<DisplayName>虚空谒神法</DisplayName>
+		<Level>Dan2</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列23" Gong="功法1607374719测试法">
+		<Esoterica>Other_Esoterica_FenShen2</Esoterica>
+		<DisplayName>三尸分神法：善我之斩</DisplayName>
+		<Level>God</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列25" Gong="功法1607374719测试法">
+		<Esoterica>Gong1_Esoterica_4</Esoterica>
+		<DisplayName>罡煞合流</DisplayName>
+		<Level>Qi</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列26" Gong="功法1607374719测试法">
+		<Esoterica>Gong5_Esoterica_12</Esoterica>
+		<DisplayName>偷天</DisplayName>
+		<Level>Dan1</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列27" Gong="功法1607374719测试法">
+		<Esoterica>Gong11_Esoterica_7</Esoterica>
+		<DisplayName>八极炼形诀</DisplayName>
+		<Level>Dan2</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列28" Gong="功法1607374719测试法">
+		<Esoterica>Other_Esoterica_FenShen1</Esoterica>
+		<DisplayName>一气化三清</DisplayName>
+		<Level>God</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列30" Gong="功法1607374719测试法">
+		<Esoterica>Gong1_Esoterica_5</Esoterica>
+		<DisplayName>奔流诀</DisplayName>
+		<Level>Qi</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列31" Gong="功法1607374719测试法">
+		<Esoterica>Gong4_Esoterica_12</Esoterica>
+		<DisplayName>戊土元神</DisplayName>
+		<Level>Dan1</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列32" Gong="功法1607374719测试法">
+		<Esoterica>Gong2_LvUpEsoterica_7</Esoterica>
+		<DisplayName>神火合一·上清</DisplayName>
+		<Level>Dan2</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列33" Gong="功法1607374719测试法">
+		<Esoterica>Other_Esoterica_DengXian1</Esoterica>
+		<DisplayName>东华秘典-紫薇剑</DisplayName>
+		<Level>God</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列35" Gong="功法1607374719测试法">
+		<Esoterica>Gong2_Esoterica_5</Esoterica>
+		<DisplayName>心焰</DisplayName>
+		<Level>Qi</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列36" Gong="功法1607374719测试法">
+		<Esoterica>Gong4_Esoterica_11</Esoterica>
+		<DisplayName>丙火元神</DisplayName>
+		<Level>Dan1</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列37" Gong="功法1607374719测试法">
+		<Esoterica>Gong1_LvUpEsoterica_6</Esoterica>
+		<DisplayName>九阴真水界</DisplayName>
+		<Level>Dan2</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列38" Gong="功法1607374719测试法">
+		<Esoterica>Gong12_LvUpEsoterica_4</Esoterica>
+		<DisplayName>遮天符</DisplayName>
+		<Level>God</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列40" Gong="功法1607374719测试法">
+		<Esoterica>Gong2_Esoterica_6</Esoterica>
+		<DisplayName>上清真气</DisplayName>
+		<Level>Qi</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列41" Gong="功法1607374719测试法">
+		<Esoterica>Gong4_Esoterica_10</Esoterica>
+		<DisplayName>壬水元神</DisplayName>
+		<Level>Dan1</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列42" Gong="功法1607374719测试法">
+		<Esoterica>Gong11_Esoterica_9</Esoterica>
+		<DisplayName>厚德篇</DisplayName>
+		<Level>Dan2</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列43" Gong="功法1607374719测试法">
+		<Esoterica>Gong4_LvUpEsoterica_6</Esoterica>
+		<DisplayName>庚金元神·圆满</DisplayName>
+		<Level>God</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列45" Gong="功法1607374719测试法">
+		<Esoterica>Gong2_Esoterica_9</Esoterica>
+		<DisplayName>琢玉册</DisplayName>
+		<Level>Qi</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列46" Gong="功法1607374719测试法">
+		<Esoterica>Gong4_Esoterica_9</Esoterica>
+		<DisplayName>甲木元神</DisplayName>
+		<Level>Dan1</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列47" Gong="功法1607374719测试法">
+		<Esoterica>Gong12_Esoterica_7</Esoterica>
+		<DisplayName>无上神符</DisplayName>
+		<Level>Dan2</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列48" Gong="功法1607374719测试法">
+		<Esoterica>Gong10_LvUpEsoterica_4</Esoterica>
+		<DisplayName>九阳神火界</DisplayName>
+		<Level>God</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列50" Gong="功法1607374719测试法">
+		<Esoterica>Gong3_Esoterica_3</Esoterica>
+		<DisplayName>魔流剑意</DisplayName>
+		<Level>Qi</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列51" Gong="功法1607374719测试法">
+		<Esoterica>Gong4_Esoterica_8</Esoterica>
+		<DisplayName>庚金元神</DisplayName>
+		<Level>Dan1</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列52" Gong="功法1607374719测试法">
+		<Esoterica>Gong12_Esoterica_12</Esoterica>
+		<DisplayName>东木分神书</DisplayName>
+		<Level>Dan2</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列53" Gong="功法1607374719测试法">
+		<Esoterica>Gong1_LvUpEsoterica_8</Esoterica>
+		<DisplayName>罡煞合流</DisplayName>
+		<Level>God</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列55" Gong="功法1607374719测试法">
+		<Esoterica>Gong3_Esoterica_7</Esoterica>
+		<DisplayName>神御剑</DisplayName>
+		<Level>Qi</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列56" Gong="功法1607374719测试法">
+		<Esoterica>Gong3_Esoterica_8</Esoterica>
+		<DisplayName>神合剑</DisplayName>
+		<Level>Dan1</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列57" Gong="功法1607374719测试法">
+		<Esoterica>Gong1_LvUpEsoterica_3</Esoterica>
+		<DisplayName>水镜观心定</DisplayName>
+		<Level>Dan2</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="测试法_序列58" Gong="功法1607374719测试法">
+		<Esoterica>Gong1_LvUpEsoterica_2</Esoterica>
+		<DisplayName>天一真法</DisplayName>
+		<Level>God</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+
+</List></SkillTree>

@@ -1,0 +1,294 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Guard_cangwu_faqiu">
+      <DisplayName>发丘天官</DisplayName>
+      <Names>王</Names>
+      <Desc>掌控雷鸣之力的护法，供奉可全面提高各项能力，并额外提高御器技能等级，法宝威力，但会降低法宝灵气恢复速度。</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_2">
+      <DisplayName>电母</DisplayName>
+      <Names>江</Names>
+      <Desc>掌控闪电之力的护法，供奉可全面提高各项能力，并额外提高御器技能等级，法宝灵气恢复速度，但会降低法宝威力。</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_3">
+      <DisplayName>云霆神将</DisplayName>
+      <Names>闪</Names>
+      <Desc>掌控布云操风之力的护法，供奉可少量提高各项能力，并额外提高护体技能等级，但会降低法宝威力。</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_4">
+      <DisplayName>御雷神将</DisplayName>
+      <Names>震</Names>
+      <Desc>掌控化雨生雷之力的护法，供奉可少量提高各项能力，并额外提高护体技能等级，但会降低法宝灵气恢复速度。</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_5">
+      <DisplayName>列缺使</DisplayName>
+      <Names>宫</Names>
+      <Desc>雷部五使之一，供奉可提高寿命和灵气最大值，并额外提高法宝威力，法宝灵气，法宝灵气恢复速度。</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_6">
+      <DisplayName>霹雳使</DisplayName>
+      <Names>雷</Names>
+      <Desc>雷部五使之一，供奉可提高寿命和灵气最大值，并额外提高法宝威力，但会降低护盾强度。</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_7">
+      <DisplayName>神宵使</DisplayName>
+      <Names>玄</Names>
+      <Desc>雷部五使之一，供奉可提高寿命和灵气最大值，并额外提高法宝威力，术法威力，术法消耗。</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_8">
+      <DisplayName>天都使</DisplayName>
+      <Names>定</Names>
+      <Desc>雷部五使之一，供奉可提高寿命和灵气最大值，并额外提高御器技能等级，术法技能等级，护体技能等级。</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_9">
+      <DisplayName>玉枢使</DisplayName>
+      <Names>宙</Names>
+      <Desc>雷部五使之一，供奉可大幅提高寿命和灵气最大值，并习得神通：归一观。</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_1">
+      <DisplayName>天人</DisplayName>
+      <Names>帝</Names>
+      <Desc>八部众之首，供奉可大幅全面提高所有能力，并习得神通：神心观。</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_2">
+      <DisplayName>龙王</DisplayName>
+      <Names>龙</Names>
+      <Desc>八部众之中掌控海洋众生之王，供奉可少量提高所有能力，习得术法：御龙啸，并额外提高术法技能等级，术法威力，但会加倍提高术法消耗。</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_3">
+      <DisplayName>夜叉</DisplayName>
+      <Names>罗</Names>
+      <Desc>八部众之中代表敏捷与隐秘的护法之王，供奉可少量提高各项能力，习得术法：夜叉血咒，并额外提高术法威力，术法消耗，降低术法吟唱时间，调息时间。</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_4">
+      <DisplayName>乾达婆</DisplayName>
+      <Names>幻</Names>
+      <Desc>八部众之中代表缥缈变化之护法，供奉可少量提高各项能力，并额外提高法宝灵气恢复速度，降低术法灵气消耗。</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_5">
+      <DisplayName>阿修罗</DisplayName>
+      <Names>魔</Names>
+      <Desc>八部众之中代表杀戮恶念之护法，供奉可少量提高各项能力，习得术法：修罗剑，并额外提高战斗技能等级，御器技能等级，术法技能等级，护体技能等级。</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_6">
+      <DisplayName>迦楼罗</DisplayName>
+      <Names>鹏</Names>
+      <Desc>八部众之中代表神威庄严之护法，供奉可少量提高各项能力，并额外提高御器飞行速度，法宝速度，法宝转弯速度。</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_7">
+      <DisplayName>紧那罗</DisplayName>
+      <Names>乐</Names>
+      <Desc>八部众之中代表美好宁静之护法，供奉可少量提高各项能力，习得术法：宁静，并额外提高魅力，寿命，灵气最大值。</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_8">
+      <DisplayName>摩乎罗伽</DisplayName>
+      <Names>劫</Names>
+      <Desc>八部众之中代表地表众生之王，供奉可少量提高各项能力，获得神通：归一观，并额外提高护盾技能等级，护盾强度。</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_1">
+      <DisplayName>通幽判官</DisplayName>
+      <Names>李</Names>
+      <Desc>幽冥世界掌管生死之护法，供奉可提高所有能力，并获得神通：阴阳逆转，额外提高护御技能等级，灵气最大值。</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_2">
+      <DisplayName>黑衣无常</DisplayName>
+      <Names>范</Names>
+      <Desc>幽冥世界勾魂使，供奉可少量提高所有能力，习得术法：无常之护，并额外提高御器技能等级，法宝威力，法宝灵气，法宝灵气恢复速度。</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_3">
+      <DisplayName>白袍无常</DisplayName>
+      <Names>谢</Names>
+      <Desc>幽冥世界勾魂使，供奉可少量提高所有能力，并额外提高术法技能等级，术法威力，术法消耗。</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_4">
+      <DisplayName>牛头幽使</DisplayName>
+      <Names>牛</Names>
+      <Desc>幽冥世界巡查者，供奉可少量提高所有能力，并额外提高护盾强度，法宝威力。</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_5">
+      <DisplayName>马面鬼将</DisplayName>
+      <Names>马</Names>
+      <Desc>幽冥世界巡查者，供奉可少量提高所有能力，并额外提高护盾强度，术法威力。</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_6">
+      <DisplayName>引渡人</DisplayName>
+      <Names>孟</Names>
+      <Desc>幽冥世界冥河引渡人，供奉可提高寿命和灵气最大值，并额外获得神通：还魂术，额外提高法宝威力，术法威力。</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_7">
+      <DisplayName>阴山卫</DisplayName>
+      <Names>何</Names>
+      <Desc>幽冥世界阴山守卫者，供奉可提高寿命和灵气最大值，并额外提高护盾强度，并额外获得神通：归一观。</Desc>
+    </Text>
+    <Text Name="Guard_Other_1">
+      <DisplayName>贪狼星</DisplayName>
+      <Names>戮</Names>
+      <Desc>星宿之灵，凶煞非常，供奉会提高所有能力，并额外提升法宝威力，法术威力，但会大幅降低寿命。</Desc>
+    </Text>
+    <Text Name="Guard_Other_2">
+      <DisplayName>七杀星</DisplayName>
+      <Names>杀</Names>
+      <Desc>星宿之灵，凶煞非常，供奉会提高所有能力，并额外提升法宝威力，法术威力，但会大幅降低灵气上限。</Desc>
+    </Text>
+    <Text Name="Guard_Other_3">
+      <DisplayName>破军星</DisplayName>
+      <Names>军</Names>
+      <Desc>星宿之灵，凶煞非常，供奉会提高所有能力，并额外提升法宝威力，法术威力，但会大幅降低护盾强度。</Desc>
+    </Text>
+    <Text Name="Guard_Other_4">
+      <DisplayName>赤灵</DisplayName>
+      <Names>赤</Names>
+      <Desc>上古五方五行护法，供奉会少量提高所有能力，并额外提高法术技能等级，法术威力。</Desc>
+    </Text>
+    <Text Name="Guard_Other_5">
+      <DisplayName>白灵</DisplayName>
+      <Names>白</Names>
+      <Desc>上古五方五行护法，供奉会少量提高所有能力，并额外提高法宝技能等级，法宝威力，法宝灵气上限，法宝灵气恢复速度。</Desc>
+    </Text>
+    <Text Name="Guard_Other_6">
+      <DisplayName>黄灵</DisplayName>
+      <Names>姬</Names>
+      <Desc>上古五方五行护法，供奉会少量提高所有能力，并额外提高护体技能等级，护盾强度。</Desc>
+    </Text>
+    <Text Name="Guard_Other_7">
+      <DisplayName>黑灵</DisplayName>
+      <Names>汁</Names>
+      <Desc>上古五方五行护法，供奉会少量提高所有能力，并额外提高气感。</Desc>
+    </Text>
+    <Text Name="Guard_Other_8">
+      <DisplayName>青灵</DisplayName>
+      <Names>灵</Names>
+      <Desc>上古五方五行护法，供奉会少量提高所有能力，并额外提高灵气最大值。</Desc>
+    </Text>
+    <Text Name="Guard_Other_9">
+      <DisplayName>海灵</DisplayName>
+      <Names>汪</Names>
+      <Desc>不知传自何种神道的护法，供奉会少量提高所有能力，并额外提高术法威力。</Desc>
+    </Text>
+    <Text Name="Guard_Other_10">
+      <DisplayName>山灵</DisplayName>
+      <Names>泰</Names>
+      <Desc>山脉护法之灵，供奉会少量提高所有能力，并额外提升护盾强度。</Desc>
+    </Text>
+    <Text Name="Guard_Other_11">
+      <DisplayName>花灵</DisplayName>
+      <Names>香</Names>
+      <Desc>百花护法之灵，供奉会少量提高所有能力，习得术法：万花咒，并额外提高灵气最大值。</Desc>
+    </Text>
+    <Text Name="Guard_Other_12">
+      <DisplayName>巨灵</DisplayName>
+      <Names>崇</Names>
+      <Desc>身负巨力的护法，供奉会少量提高所有能力，并额外提高法宝击退能力，法宝抗击退能力。</Desc>
+    </Text>
+    <Text Name="Guard_Base_1">
+      <DisplayName>金精</DisplayName>
+      <Names>刃</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法宝技能等级，法宝威力，法宝灵气上限，法宝灵气恢复速度。</Desc>
+    </Text>
+    <Text Name="Guard_Base_2">
+      <DisplayName>木精</DisplayName>
+      <Names>叶</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高灵气最大值。</Desc>
+    </Text>
+    <Text Name="Guard_Base_3">
+      <DisplayName>水精</DisplayName>
+      <Names>流</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高气感。</Desc>
+    </Text>
+    <Text Name="Guard_Base_4">
+      <DisplayName>火精</DisplayName>
+      <Names>焱</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法术技能等级，法术威力。</Desc>
+    </Text>
+    <Text Name="Guard_Base_5">
+      <DisplayName>土精</DisplayName>
+      <Names>尘</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高护体技能等级，护盾强度。</Desc>
+    </Text>
+    <Text Name="Guard_Base_6">
+      <DisplayName>土煞</DisplayName>
+      <Names>参</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高寿命。</Desc>
+    </Text>
+    <Text Name="Guard_Base_7">
+      <DisplayName>木煞</DisplayName>
+      <Names>灵</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高最大灵气值。</Desc>
+    </Text>
+    <Text Name="Guard_Base_8">
+      <DisplayName>金煞</DisplayName>
+      <Names>灭</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法宝威力。</Desc>
+    </Text>
+    <Text Name="Guard_Base_9">
+      <DisplayName>湖精</DisplayName>
+      <Names>于</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法宝灵气恢复速度。</Desc>
+    </Text>
+    <Text Name="Guard_Base_10">
+      <DisplayName>晶精</DisplayName>
+      <Names>明</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法宝灵气。</Desc>
+    </Text>
+    <Text Name="Guard_Base_11">
+      <DisplayName>岩精</DisplayName>
+      <Names>厚</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高护盾强度。</Desc>
+    </Text>
+    <Text Name="Guard_Base_12">
+      <DisplayName>火煞</DisplayName>
+      <Names>炽</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法术伤害。</Desc>
+    </Text>
+    <Text Name="Guard_Base_13">
+      <DisplayName>水煞</DisplayName>
+      <Names>决</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以降低法术消耗。</Desc>
+    </Text>
+    <Text Name="Guard_Base_14">
+      <DisplayName>风精</DisplayName>
+      <Names>啸</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法术法宝飞行速度。</Desc>
+    </Text>
+    <Text Name="Guard_Base_15">
+      <DisplayName>风煞</DisplayName>
+      <Names>鸣</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法宝转弯速度。</Desc>
+    </Text>
+    <Text Name="Guard_Base_16">
+      <DisplayName>岩煞</DisplayName>
+      <Names>执</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法宝击退距离。</Desc>
+    </Text>
+    <Text Name="Guard_Base_17">
+      <DisplayName>韧煞</DisplayName>
+      <Names>坚</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高法宝击退抵抗。</Desc>
+    </Text>
+    <Text Name="Guard_Base_18">
+      <DisplayName>木罡</DisplayName>
+      <Names>叶</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以降低法术吟唱时间。</Desc>
+    </Text>
+    <Text Name="Guard_Base_19">
+      <DisplayName>水罡</DisplayName>
+      <Names>波</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以降低法术消耗。</Desc>
+    </Text>
+    <Text Name="Guard_Base_20">
+      <DisplayName>金罡</DisplayName>
+      <Names>铜</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高御器技能等级。</Desc>
+    </Text>
+    <Text Name="Guard_Base_21">
+      <DisplayName>火罡</DisplayName>
+      <Names>焰</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高术法技能等级。</Desc>
+    </Text>
+    <Text Name="Guard_Base_22">
+      <DisplayName>土罡</DisplayName>
+      <Names>脉</Names>
+      <Desc>天地间随处可见无主护法。供奉此护法可以提高护体技能等级。</Desc>
+    </Text>
+  </List>
+</Texts>
